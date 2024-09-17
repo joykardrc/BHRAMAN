@@ -1,6 +1,6 @@
 {
-  "name": "BHRAMAN TEST TOKEN",
-  "symbol": "BRMT",
+  "name": "BHRAMAN",
+  "symbol": "BRMN",
   "description": "Example token from Solana Making a Token guide.",
   "image": "https://raw.githubusercontent.com/joykardrc/BHRAMAN/refs/heads/main/bhramanico-removebg-preview512x512.png"
 }
